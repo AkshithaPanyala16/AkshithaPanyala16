@@ -14,7 +14,7 @@
 
 🎓 **B.Tech – Computer Science & Engineering (AI & ML)**  
 🏫 *Malla Reddy Engineering College for Women, Hyderabad*  
-📊 **CGPA:** 9.06  
+📊 **CGPA:** 9.11 
 
 I am an aspiring **AI/ML engineer** with a strong academic foundation and hands-on experience gained through internships and real-world projects.  
 My interests include **Machine Learning, Explainable AI, and applied artificial intelligence**, with a focus on building reliable and data-driven solutions.  
